@@ -1,11 +1,7 @@
 #EXTM3U
-#EXT-X-MEDIA-SEQUENCE:147841
+#EXT-X-MEDIA-SEQUENCE:147843
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:9
-#EXTINF:9.001,
-https://proxyts.ml/proxy/4kimagesch.html?url=discovery-1653282627458.ts
-#EXTINF:9,
-https://proxyts.ml/proxy/4kimagesch.html?url=discovery-1653282636482.ts
 #EXTINF:9.001,
 https://proxyts.ml/proxy/4kimagesch.html?url=discovery-1653282645236.ts
 #EXTINF:9,
@@ -22,3 +18,7 @@ https://proxyts.ml/proxy/4kimagesch.html?url=discovery-1653282690267.ts
 https://proxyts.ml/proxy/4kimagesch.html?url=discovery-1653282699474.ts
 #EXTINF:9,
 https://proxyts.ml/proxy/4kimagesch.html?url=discovery-1653282708410.ts
+#EXTINF:9.001,
+https://proxyts.ml/proxy/4kimagesch.html?url=discovery-1653282717388.ts
+#EXTINF:9.001,
+https://proxyts.ml/proxy/4kimagesch.html?url=discovery-1653282726375.ts
