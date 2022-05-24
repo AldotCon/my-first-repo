@@ -1,10 +1,8 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
-#EXT-X-MEDIA-SEQUENCE:164383
+#EXT-X-MEDIA-SEQUENCE:164384
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:9
-#EXTINF:9,
-https://www-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=7200&url=https://ventilador.cf/hls1/discovery-1653431811404.html?_segment.ts
 #EXTINF:9.001,
 https://www-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=7200&url=https://ventilador.cf/hls1/discovery-1653431820550.html?_segment.ts
 #EXTINF:9,
@@ -23,3 +21,5 @@ https://www-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refre
 https://www-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=7200&url=https://ventilador.cf/hls1/discovery-1653431883294.html?_segment.ts
 #EXTINF:9,
 https://www-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=7200&url=https://ventilador.cf/hls1/discovery-1653431892447.html?_segment.ts
+#EXTINF:9.001,
+https://www-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=7200&url=https://ventilador.cf/hls1/discovery-1653431901298.html?_segment.ts
