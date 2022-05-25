@@ -1,11 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:167794
+#EXT-X-MEDIA-SEQUENCE:167795
 #EXT-X-PLAYLIST-TYPE:EVENT
 #EXT-X-TARGETDURATION:9
 #EXT-X-ALLOW-CACHE:NO
-#EXTINF:9.000,
-https://proxyts.ml/proxy/4kimagesch.html?url=record-1653462248571.ts
 #EXTINF:9.001,
 https://proxyts.ml/proxy/4kimagesch.html?url=record-1653462257589.ts
 #EXTINF:9.000,
@@ -24,3 +22,5 @@ https://proxyts.ml/proxy/4kimagesch.html?url=record-1653462311668.ts
 https://proxyts.ml/proxy/4kimagesch.html?url=record-1653462320684.ts
 #EXTINF:9.000,
 https://proxyts.ml/proxy/4kimagesch.html?url=record-1653462329392.ts
+#EXTINF:9.001,
+https://proxyts.ml/proxy/4kimagesch.html?url=record-1653462338654.ts
