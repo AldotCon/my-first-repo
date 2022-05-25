@@ -1,10 +1,8 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:EVENT
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:166718
+#EXT-X-MEDIA-SEQUENCE:166719
 #EXT-X-TARGETDURATION:9
-#EXTINF:9.000,
-https://ventilador.cf/hls1/record-1653452562627.html?_segment.ts
 #EXTINF:9.001,
 https://ventilador.cf/hls1/record-1653452571671.html?_segment.ts
 #EXTINF:9.000,
@@ -23,3 +21,5 @@ https://ventilador.cf/hls1/record-1653452625489.html?_segment.ts
 https://ventilador.cf/hls1/record-1653452634550.html?_segment.ts
 #EXTINF:9.001,
 https://ventilador.cf/hls1/record-1653452643622.html?_segment.ts
+#EXTINF:9.000,
+https://ventilador.cf/hls1/record-1653452652693.html?_segment.ts
