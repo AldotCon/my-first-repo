@@ -1,10 +1,8 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:EVENT
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:166627
+#EXT-X-MEDIA-SEQUENCE:166628
 #EXT-X-TARGETDURATION:9
-#EXTINF:9.001,
-https://www-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=7200&url=https://ventilador.cf/hls1/record-1653451742581.html?_segment.ts
 #EXTINF:9.000,
 https://www-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=7200&url=https://ventilador.cf/hls1/record-1653451751641.html?_segment.ts
 #EXTINF:9.001,
@@ -23,3 +21,5 @@ https://www-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refre
 https://www-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=7200&url=https://ventilador.cf/hls1/record-1653451814442.html?_segment.ts
 #EXTINF:9.000,
 https://www-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=7200&url=https://ventilador.cf/hls1/record-1653451822682.html?_segment.ts
+#EXTINF:9.001,
+https://www-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=7200&url=https://ventilador.cf/hls1/record-1653451832511.html?_segment.ts
