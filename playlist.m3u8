@@ -1,10 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:167270
+#EXT-X-MEDIA-SEQUENCE:167271
 #EXT-X-TARGETDURATION:9
 #EXT-X-DISCONTINUITY-SEQUENCE:0
-#EXTINF:9.001,
-https://proxyts.ml/proxy/4kimagesch.html?url=record-1653457532615.ts
 #EXTINF:9.000,
 https://proxyts.ml/proxy/4kimagesch.html?url=record-1653457541677.ts
 #EXTINF:9.001,
@@ -23,3 +21,5 @@ https://proxyts.ml/proxy/4kimagesch.html?url=record-1653457595526.ts
 https://proxyts.ml/proxy/4kimagesch.html?url=record-1653457604631.ts
 #EXTINF:9.000,
 https://proxyts.ml/proxy/4kimagesch.html?url=record-1653457613423.ts
+#EXTINF:9.001,
+https://proxyts.ml/proxy/4kimagesch.html?url=record-1653457622514.ts
