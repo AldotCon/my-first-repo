@@ -1136,7 +1136,7 @@ if(typeof videojs !== 'undefined' && videojs.VERSION.indexOf('4.') === 0) {
 		if (srcObj.type === 'application/dash+xml') {
 		// TODO: allow codec info and check browser support
 			return 'maybe';
-		} else if (srcObj.type === 'text/html; charset=UTF-8') {
+		} else if (srcObj.type === 'text/html') {
 			return 'maybe';
 		}
 		else {
@@ -1297,7 +1297,7 @@ if(typeof videojs !== 'undefined' && videojs.VERSION.indexOf('4.') === 0) {
 	    return false;
 	  }
 	
-	  xMpegUrl = video.canPlayType('text/html; charset=UTF-8');
+	  xMpegUrl = video.canPlayType('text/html');
 	  vndMpeg = video.canPlayType('application/vnd.apple.mpegURL');
 	  return (/probably|maybe/).test(xMpegUrl) ||
 	    (/probably|maybe/).test(vndMpeg);
@@ -1309,7 +1309,7 @@ if(typeof videojs !== 'undefined' && videojs.VERSION.indexOf('4.') === 0) {
 		if (srcObj.type === 'application/dash+xml') {
 		// TODO: allow codec info and check browser support
 			return 'maybe';
-		} else if (srcObj.type === 'text/html; charset=UTF-8') {
+		} else if (srcObj.type === 'text/html') {
 			return 'maybe';
 		}
 		else {
@@ -1478,7 +1478,7 @@ if(typeof videojs !== 'undefined' && videojs.VERSION.indexOf('4.') !== 0) {
 		if (srcObj.type === 'application/dash+xml') {
 			// TODO: allow codec info and check browser support
 			return 'maybe';
-		} else if (srcObj.type === 'text/html; charset=UTF-8') {
+		} else if (srcObj.type === 'text/html') {
 			return 'maybe';
 		}
 		else {
@@ -1649,7 +1649,7 @@ if(typeof videojs !== 'undefined' && videojs.VERSION.indexOf('4.') !== 0) {
 		return false;
 	  }
 	
-	  xMpegUrl = video.canPlayType('text/html; charset=UTF-8');
+	  xMpegUrl = video.canPlayType('text/html');
 	  vndMpeg = video.canPlayType('application/vnd.apple.mpegURL');
 	  return (/probably|maybe/).test(xMpegUrl) ||
 		(/probably|maybe/).test(vndMpeg);
@@ -1661,7 +1661,7 @@ if(typeof videojs !== 'undefined' && videojs.VERSION.indexOf('4.') !== 0) {
 		if (srcObj.type === 'application/dash+xml') {
 		// TODO: allow codec info and check browser support
 			return 'maybe';
-		} else if (srcObj.type === 'text/html; charset=UTF-8') {
+		} else if (srcObj.type === 'text/html') {
 			return 'maybe';
 		}
 		else {

@@ -11644,7 +11644,7 @@ var MimetypesKind = {
   mp3: 'audio/mpeg',
   aac: 'audio/aac',
   oga: 'audio/ogg',
-  m3u8: 'text/html; charset=UTF-8'
+  m3u8: 'text/html'
 };
 
 /**
