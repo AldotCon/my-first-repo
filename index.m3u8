@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:126
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="https://aldotcon.github.io/my-first-repo/CursoBB.key"
+#EXTINF:125.904667,
+https://doc-08-9o-docs.googleusercontent.com/docs/securesc/atf6rubr9v4rdcm90abe0etlruisluo1/j55g3mdkjhdfpms9df6l2q1v2c30vc3g/1656909150000/14922280542658832390/01205694543110255487Z/1NCocnMI2ipsMACopVxuVNsVrkhq9si5j?segment_0.ts
+#EXT-X-ENDLIST
+
