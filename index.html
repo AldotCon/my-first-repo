@@ -1,35 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-   <link href="https://unpkg.com/@videojs/themes@1/dist/fantasy/index.css" rel="stylesheet" />  
    <title></title>
    <meta charset="utf-8" />
-   <script src="https://aldotcon.github.io/my-first-repo/video.min.js" ></script>
-   <script src="https://aldotcon.github.io/my-first-repo/dash.all.debug.js"></script>
-   <script src="https://aldotcon.github.io/my-first-repo/dash.all.min.js"></script>
-   
 </head>
 <body onload="init()">
    <video id='example-video' width=600 height=300 class="video-js vjs-theme-fantasy" controls> </video>
   <script>
-        var options = {
-      src: 'https://aldotcon.github.io/my-first-repo/stream.mpd',
-      type: 'application/dash+xml',
-      keySystemOptions: [
-          {
-             name: 'org.w3.clearkey',
-             options: {
-                //serverURL: 'api/dashkey',
-                clearkeys: {
-                   "syb4lbaiTMWk3HCZVygFnA": "YX2KElooTfSOPGsYZjSKPw"
-                }
-             }
-          }
-      ]
-   };
-   var player = videojs('example-video');
-   player.src(options);
-   player.play();
+     console.log('<b>Hello World!<b>');
      </script> 
 </body>
 </html>
