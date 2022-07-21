@@ -1,6 +1,6 @@
 var init = function () {
    var options = {
-      src: '/stream.mpd',
+      src: 'https://aldotcon.github.io/my-first-repo/stream.mpd',
       type: 'application/dash+xml',
       keySystemOptions: [
           {
