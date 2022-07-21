@@ -1,6 +1,6 @@
 var init = function () {
    var options = {
-      src: 'stream.mpd',
+      src: '/stream.mpd',
       type: 'application/dash+xml',
       keySystemOptions: [
           {
